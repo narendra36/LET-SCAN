@@ -8,9 +8,9 @@ enhancer = ImageEnhance.Contrast(im)
 im = enhancer.enhance(2)
 im = im.convert('1')
 im.save('temp2.jpg')'''
-file = open("book.txt",'w') 
+#file = open("book.txt",'w') 
 text = pytesseract.image_to_string(Image.open('book.jpg'))
-text = text.decode('unicode_escape').encode('utf-8')
-file.write(text);
-file.close();
-#print(text)
+#text = text.decode('unicode_escape').encode('utf-8')
+#file.write(text);
+#file.close();
+print(text)
