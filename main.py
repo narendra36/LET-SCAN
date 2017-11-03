@@ -1,15 +1,17 @@
-''' this is for converting a imagein to a text file '''
+# -*- coding: utf8 -*-
+
 import pytesseract
 from PIL import Image, ImageEnhance, ImageFilter
+from fpdf import FPDF
 
-'''im = Image.open("temp.jpg") # the second one 
-im = im.filter(ImageFilter.MedianFilter())
-enhancer = ImageEnhance.Contrast(im)
-im = enhancer.enhance(2)
-im = im.convert('1')
-im.save('temp2.jpg')'''
+text = pytesseract.image_to_string(Image.open('book.jpg'), lang='eng')
 
-text = pytesseract.image_to_string(Image.open('book.jpg'))
-
+book = FPDF()
+#book.set_font('Arial', '', 12)
+book.add_font('Roboto', '', 'roboto/Roboto-Thin.ttf', uni=True)
+book.set_font('Roboto','',16)
+book.add_page()
+book.write(8, text)
+book.output('book.pdf', 'F')
 
 print(text)
