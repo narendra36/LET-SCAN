@@ -2,6 +2,7 @@ import  sys
 from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog
 import qt_designer 
 from PyQt5 import QtGui
+from createPdf import create
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -14,7 +15,7 @@ class MainWindow(QMainWindow):
 
     def convertPrograss(self):
         self.completed = 0
-
+        create(self.path)
         while self.completed < 100:
             self.completed += 0.0001
             self.ui.progressBar.setValue(self.completed)
@@ -26,8 +27,7 @@ class MainWindow(QMainWindow):
         if fileName[0]:
             self.path = fileName
             self.ui.filePath.setText(fileName[0]+' , '+ str(len(fileName)) + ' images selected')
-            print(self.path)
-            #print(fileName)       
+            print(self.path)    
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
