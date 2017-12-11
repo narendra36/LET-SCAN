@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'qt_designer.ui'
-#
-# Created by: PyQt5 UI code generator 5.9
-#
-# WARNING! All changes made in this file will be lost!
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_MainWindow(object):
@@ -15,37 +7,41 @@ class Ui_MainWindow(object):
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.browse = QtWidgets.QPushButton(self.centralwidget)
-        self.browse.setGeometry(QtCore.QRect(600, 210, 92, 36))
+        self.browse.setGeometry(QtCore.QRect(600, 400, 92, 40))
         self.browse.setObjectName("browse")
         self.filePath = QtWidgets.QLineEdit(self.centralwidget)
-        self.filePath.setGeometry(QtCore.QRect(110, 210, 461, 36))
+        self.filePath.setGeometry(QtCore.QRect(110, 400, 461, 40))
         self.filePath.setObjectName("filePath")
         self.convertToPdf = QtWidgets.QPushButton(self.centralwidget)
-        self.convertToPdf.setGeometry(QtCore.QRect(310, 280, 161, 36))
+        self.convertToPdf.setGeometry(QtCore.QRect(310, 470, 161, 40))
         self.convertToPdf.setObjectName("convertToPdf")
-        self.progressBar = QtWidgets.QProgressBar(self.centralwidget)
-        self.progressBar.setGeometry(QtCore.QRect(160, 410, 491, 23))
-        self.progressBar.setProperty("value", 24)
-        self.progressBar.setObjectName("progressBar")
-        self.label = QtWidgets.QLabel(self.centralwidget)
-        self.label.setGeometry(QtCore.QRect(170, 390, 91, 20))
+
         font = QtGui.QFont()
         font.setFamily("Comfortaa")
-        self.label.setFont(font)
-        self.label.setObjectName("label")
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
-        self.label_2.setGeometry(QtCore.QRect(120, 180, 351, 20))
+        self.label_2.setGeometry(QtCore.QRect(110, 360, 461, 20))
         font = QtGui.QFont()
-        font.setFamily("Comfortaa")
         self.label_2.setFont(font)
         self.label_2.setObjectName("label_2")
-        self.label_3 = QtWidgets.QLabel(self.centralwidget)
-        self.label_3.setGeometry(QtCore.QRect(200, 40, 411, 31))
+        #self.label_3 = QtWidgets.QLabel(self.centralwidget)
+        #self.label_3.setGeometry(QtCore.QRect(200, 40, 411, 31))
         font = QtGui.QFont()
         font.setFamily("Comfortaa")
         font.setPointSize(24)
-        self.label_3.setFont(font)
-        self.label_3.setObjectName("label_3")
+        #self.label_3.setFont(font)
+        #self.label_3.setObjectName("label_3")
+        self.label_4 = QtWidgets.QLabel(self.centralwidget)
+        self.label_4.setGeometry(QtCore.QRect(0, 0, 0, 0))
+        self.label_4.setObjectName("label_4")
+        self.label_5 = QtWidgets.QLabel(self.label_4)
+        self.label_5.setGeometry(QtCore.QRect(336, 180, 128, 128))
+        self.label_5.setObjectName("label_5")
+        self.label_5.setPixmap(QtGui.QPixmap("hourglass.png"))
+        self.label_6 = QtWidgets.QLabel(self.label_4)
+        self.label_6.setGeometry(QtCore.QRect(0, 350, 800, 30))
+        self.label_6.setObjectName("label_6")
+        self.label_6.setFont(font)
+
         MainWindow.setCentralWidget(self.centralwidget)
         self.statusbar = QtWidgets.QStatusBar(MainWindow)
         self.statusbar.setObjectName("statusbar")
@@ -53,23 +49,32 @@ class Ui_MainWindow(object):
 
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
+        self.centralwidget.setStyleSheet("background-image: url('back.png')")
+        self.filePath.setStyleSheet("background-color: #f2f2f2;")
+        self.browse.setStyleSheet("border: 0px; color: white;")
+        self.convertToPdf.setStyleSheet("border: 0px; color: white;")
+        self.label_2.setStyleSheet("background: transparent; font-size: 15px;")
+        self.label_4.setStyleSheet("background: rgba(0,0,0,0.9)")
+        self.label_5.setStyleSheet("background: transparent")
+        self.label_6.setStyleSheet("background: transparent; color: white; font-size: 20px; padding-left: 150px;")
+        #self.label_3.setStyleSheet("color: white; background: transparent;")
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "LET\'SCAN"))
         self.browse.setText(_translate("MainWindow", "Browse"))
         self.convertToPdf.setText(_translate("MainWindow", "Convert To Pdf"))
-        self.label.setText(_translate("MainWindow", "Progress :"))
         self.label_2.setText(_translate("MainWindow", "Choose All the images you want to convert"))
-        self.label_3.setText(_translate("MainWindow", "WELCOME TO LET\'SCAN"))
+        self.label_6.setText(_translate("MainWindow", "Be Patient. Detecting Text. It may take some time."))
+        #self.label_3.setText(_translate("MainWindow", "WELCOME TO LET\'SCAN"))
 
 
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
-    ui.setupUi(MainWindow)
-    MainWindow.show()
-    sys.exit(app.exec_())
+# if __name__ == "__main__":
+#     import sys
+#     app = QtWidgets.QApplication(sys.argv)
+#     MainWindow = QtWidgets.QMainWindow()
+#     ui = Ui_MainWindow()
+#     ui.setupUi(MainWindow)
+#     MainWindow.show()
+#     sys.exit(app.exec_())
 
