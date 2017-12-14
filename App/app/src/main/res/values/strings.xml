@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LET\'SCAN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_us">
+        <b>TEAM MEMBERS</b>\n
+        SAURABH KUMAR\n
+        SUDHANSHU RAMAN\n
+        NARENDRA DODWARIA\n
+        MILINDRA PRATAP SINGH\n
+        VINEET KUMAR\n
+        ANSHUL CHAINTHA\n
+        VEDANT KHANCHI\n
+    </string>
+
+
+</resources>

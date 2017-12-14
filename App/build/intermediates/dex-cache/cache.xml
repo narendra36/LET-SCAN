@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3045ae8d2f07e339fdbebb7b50d6e691784de6a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_0e0f6b896e6ea50d404d9f83904be53084054cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3baab2ba46089974dd6f9b69b6cd005ab5892784/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_a9ef8712418df5fd1ae6f9582cabb122d03516dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3045ae8d2f07e339fdbebb7b50d6e691784de6a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e0f6b896e6ea50d404d9f83904be53084054cc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mili/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_640c87717b081107c397266768a14d59ca39b335.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3baab2ba46089974dd6f9b69b6cd005ab5892784/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9ef8712418df5fd1ae6f9582cabb122d03516dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mili/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_640c87717b081107c397266768a14d59ca39b335/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bcf5d50f3d7dde2319ca6030b78dc6b29cbd1c71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_910675f5554ef9a7778716043d517cacf011df25.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bcf5d50f3d7dde2319ca6030b78dc6b29cbd1c71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_910675f5554ef9a7778716043d517cacf011df25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9c377370c84caef9e3aa48ca9f78e85035292a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/407f7091d5077e94c84872fc1ac66adb0f8b9625/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c02601221d3415443520063447326463f75dfff4">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a5606366bb3d89b78067bc5cfea3668a45b2b2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8e2fc0205d6dc137be9fc5f96863ef7c7d3bf758/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbc75f1033278527ebe96187fe546e34501721b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8e2fc0205d6dc137be9fc5f96863ef7c7d3bf758/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_bbc75f1033278527ebe96187fe546e34501721b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/91b675232bf1768c532b124cdbca6840a6993e0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92845245124c30e90c3c0d09d5e3b7c43c2bd020/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/17f99490c3595d70bc0bc269e214dff8df020e22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_2a464135b3d516b6973ff689fe258bb7cea0d0b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb7c43684fff8b2c57a433de0f81637c44de6f6d">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e400aa92f231d41846438f29e583072ac3db6cb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/206d710060213797bf272be1d90854cc7e067b03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56f48b447e60bfa8adafe1e92ccd74a77e3c76e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/17f99490c3595d70bc0bc269e214dff8df020e22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a464135b3d516b6973ff689fe258bb7cea0d0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b6be81ddbd82e4cf29f488e352825902aac57f29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_65417d8c1492521af58447efe80d3fc96f9813e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/fd83664569d74fdb7a71703214cec7dde0b0093a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_5ac368358a7fbc2883c8c50b9a58cac556d99d39.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b6be81ddbd82e4cf29f488e352825902aac57f29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65417d8c1492521af58447efe80d3fc96f9813e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5352c8a8cff278b7d126472d60f52d3cf1cfdb66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_f85525bf08b4e202c129a031581898ab91abe5c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/206d710060213797bf272be1d90854cc7e067b03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_56f48b447e60bfa8adafe1e92ccd74a77e3c76e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/91b675232bf1768c532b124cdbca6840a6993e0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_92845245124c30e90c3c0d09d5e3b7c43c2bd020.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/fd83664569d74fdb7a71703214cec7dde0b0093a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ac368358a7fbc2883c8c50b9a58cac556d99d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5352c8a8cff278b7d126472d60f52d3cf1cfdb66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f85525bf08b4e202c129a031581898ab91abe5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/799ed0a1371e9f548ee804aacc02611c75033c07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37fc650550c844e816d77b2ac8c866c061e3d870/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7ffc63191a7b68b0cfaab8a2b696432dd339150f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_2c9624b0acaf6b5e443fa9ede1f228eebccba1e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/799ed0a1371e9f548ee804aacc02611c75033c07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_37fc650550c844e816d77b2ac8c866c061e3d870.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/038d7f71a8c03e045947c388570876744aa505cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50a4d3d70c0364ca03dce6e5c488bfdcfe4938ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/038d7f71a8c03e045947c388570876744aa505cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/pre-dexed/debug/classes_50a4d3d70c0364ca03dce6e5c488bfdcfe4938ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7ffc63191a7b68b0cfaab8a2b696432dd339150f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mili/AndroidStudioProjects/EmotionSense-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c9624b0acaf6b5e443fa9ede1f228eebccba1e0/classes.dex" />
+    </item>
+
+</items>
