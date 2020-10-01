@@ -41,7 +41,7 @@ def plot_decision_boundary(pred_func, X, y):
     plt.show()
 
 
-# Helper function to evaluate the total loss on the dataset
+# Helper function to evaluate the total loss value on the dataset
 def calculate_loss(model, X, y):
     num_examples = len(X)  # training set size
     W1, b1, W2, b2 = model['W1'], model['b1'], model['W2'], model['b2']
